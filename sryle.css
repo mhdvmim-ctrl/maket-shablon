@@ -468,7 +468,7 @@ footer {
                 }
 
                 input {
-                    width: 150px;
+                    display: none;
                 }
             }
         }
@@ -572,7 +572,7 @@ footer {
                 }
 
                 input {
-                    width: 150px;
+                    display: none;
                 }
             }
         }
