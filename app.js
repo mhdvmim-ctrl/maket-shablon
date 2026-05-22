@@ -27,3 +27,8 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
         });
     });
 });
+
+
+function ID() {
+    alert('ID nima uchun Sizga kerakli maxsulot IDsini sotuvchiga aytasiz, sotuvchi osha maxsulotni topib beradi')
+}
